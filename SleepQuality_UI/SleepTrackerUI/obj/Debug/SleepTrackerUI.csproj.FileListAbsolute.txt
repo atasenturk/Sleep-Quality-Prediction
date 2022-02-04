@@ -1,0 +1,12 @@
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\bin\Debug\SleepTrackerUI.exe.config
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\bin\Debug\SleepTrackerUI.exe
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\bin\Debug\SleepTrackerUI.pdb
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.csproj.AssemblyReference.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.Properties.Resources.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.csproj.GenerateResource.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.exe
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.pdb
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.mainForm.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.DetailedSleepDesign.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\SleepTrackerUI\obj\Debug\SleepTrackerUI.UserProfile.resources
